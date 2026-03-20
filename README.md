@@ -39,3 +39,6 @@ Tirth
 - JWT vulnerability testing
 - Rate limiting detection
 - API security testing
+
+## 📜 License
+This project is licensed under the MIT License.
